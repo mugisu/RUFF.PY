@@ -1,0 +1,5 @@
+__pycache__
+Attendance/*.csv
+img/*
+static/faces/*
+static/*.pkl
